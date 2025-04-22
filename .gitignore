@@ -1,0 +1,68 @@
+## Ignore para Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+## Arquivos de publicação
+publish/
+out/
+artifacts/
+
+## Arquivos do Rider
+.idea/
+*.sln.iml
+
+## Arquivos do Windows
+ehthumbs.db
+Icon?
+Desktop.ini
+
+## Testes e cobertura
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+*.vsp
+*.vspx
+*.sap
+
+## Pacotes e dependências
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+## Configs de usuário
+*.userprefs
+
+## Secrets e configs locais
+appsettings.Development.json
+secrets.json
+
+## Git itself
+*.orig
+
+## Logs de ferramentas
+*.log
+*.tlog
+
+## Arquivos do Azure Functions
+local.settings.json
